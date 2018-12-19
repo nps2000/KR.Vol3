@@ -1,0 +1,7 @@
+D:\studies\Lab\OOTP\12345678\3\bin\Debug\3.exe.config
+D:\studies\Lab\OOTP\12345678\3\bin\Debug\3.exe
+D:\studies\Lab\OOTP\12345678\3\bin\Debug\3.pdb
+D:\studies\Lab\OOTP\12345678\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+D:\studies\Lab\OOTP\12345678\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\studies\Lab\OOTP\12345678\3\obj\Debug\3.exe
+D:\studies\Lab\OOTP\12345678\3\obj\Debug\3.pdb
